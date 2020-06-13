@@ -1,5 +1,5 @@
 #Data load
-mydata1<-read.csv("/Volumes/Data/Course Content/DS content/Clustering/University Data Hierarchical clustering/Universities.csv")
+mydata1<-read.csv("/Hierarchical clustering/Universities.csv")
 
 ################################
 ##data standardization
